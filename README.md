@@ -82,9 +82,11 @@ Link to Tableau Story:
 [link to dashboard](https://public.tableau.com/app/profile/aparna.nair5865/viz/NYCCitibikeanalysis_16423889545680/NYCCitibikeanalysis?publish=yes)
 
 ## Summary
- To summarize, bike sharing services are very popular in busy metropolitan areas and maximum user types are subscribers and Male
+ To summarize, bike sharing services are very popular in busy city areas and maximum user types are subscribers and Male
 gender population. In addition looks like morning and evening commute timings are the main usage timezones.
+
  In addition to analysis that was done, following 2 drill downs would add additional value in making decisions:
+ 
  1-Average trip duration--To add in average trip duration by gender and birth year in other to get an insight if they is a difference as they age
  2-Maximum traffic flow at stations by timings of Morning versus evening
  
