@@ -61,21 +61,21 @@ Deliverable 3: Create a Story and Report for the Final Presentation
 
 
 
-![Del-3-1](Images/Del-3-1].PNG)
+![Del-3-1](Images/Del-3-1.PNG)
 
-![Del-3-2](Images/Del-3-2].PNG)
+![Del-3-2](Images/Del-3-2.PNG)
 
-![Del-3-3](Images/Del-3-3].PNG)
+![Del-3-3](Images/Del-3-3.PNG)
 
-![Del-3-4](Images/Del-3-4].PNG)
+![Del-3-4](Images/Del-3-4.PNG)
 
-![Del-3-5](Images/Del-3-5].PNG)
+![Del-3-5](Images/Del-3-5.PNG)
 
-![Del-3-6](Images/Del-3-6].PNG)
+![Del-3-6](Images/Del-3-6.PNG)
 
-![Del-3-7](Images/Del-3-7].PNG)
+![Del-3-7](Images/Del-3-7.PNG)
 
-![Del-3-8](Images/Del-3-8].PNG)
+![Del-3-8](Images/Del-3-8.PNG)
 
 Link to Tableau Story:
 
