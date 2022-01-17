@@ -1,6 +1,4 @@
 # Byte-compiled / optimized / DLL files
-201908-citibike-tripdata.zip
-201908-citibike-tripdata-DT.zip
 __pycache__/
 *.py[cod]
 *$py.class
